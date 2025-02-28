@@ -1,4 +1,4 @@
-
+--modify the columns name
 SELECT 
     id AS customer_id, 
     name AS customer_name ,
